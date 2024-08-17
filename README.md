@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Thales Fortes 😁
+## Welcome to Thales Fortes's profile 😁
 
  <div>
    <a href="https://github.com/ThalesFortes">
