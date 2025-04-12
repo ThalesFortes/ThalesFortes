@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F9F6D3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E8E5BC&size=32&center=true&vCenter=true&width=1000&lines=My+name+is+Thales+Fortes+and+I'm+27+years+old.;I'm+from+Brazil.;I+have+a+degree+in+Information+Systems+from+UGB.;I+also+hold+a+technical+degree+in+Electronics+from+SENAI.;I'm+currently+studying+Software+Architecture+at+DNC.;I'm+passionate+about+technology.;I+share+my+journey+as+a+fullstack+developer.;With+dedication+and+love+for+what+I+do!&speed=20)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E8E5BC&size=32&center=true&vCenter=true&width=1000&lines=I'm+a+fullstack+developer.;My+name+is+Thales+Fortes+and+I'm+27+years+old.;I'm+from+Brazil.;I+have+a+degree+in+Information+Systems+from+UGB.;I+also+hold+a+technical+degree+in+Electronics+from+SENAI.;I'm+currently+studying+Software+Architecture+at+DNC.;I'm+passionate+about+technology.;I+share+my+journey+as+a+fullstack+developer.;With+dedication+and+love+for+what+I+do!&speed=20)](https://git.io/typing-svg)<br>
+
 
 
 
