@@ -3,7 +3,37 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E8E5BC&size=32&center=true&vCenter=true&width=1000&lines=Sou+Desenvolvedor+Full+Stack.;Meu+nome+é+Thales+Fortes+e+tenho+27+anos.;Sou+natural+do+Brasil.;Formado+em+Sistemas+de+Informação+pela+UGB.;Técnico+em+Eletrônica+pelo+SENAI.;Atualmente+curso+Arquitetura+de+Software+pela+DNC.;Sou+entusiasta+da+tecnologia.;Compartilho+minha+jornada+no+desenvolvimento+fullstack.;Com+dedicação+e+paixão+pelo+que+faço!&speed=10)](https://git.io/typing-svg)<br>
 
 
-
+ <!--<p align="center">
+      <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+        <img 
+            alt="youtube subscribers" 
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+        />
+    </a>
+    <a href="https://www.youtube.com/@larissakich">
+        <img 
+            alt="youtube views" 
+            title="Vizualizações no YouTube" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+        />
+    </a> 
+    <a href="https://github.com/ThalesFortes?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/ThalesFortes?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/ThalesFortes?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/ThalesFortes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+  </a>
+  </p>-->
+  
 <div align="center">
   <br>
   <p align="center">
@@ -16,6 +46,7 @@
 </div>
 
 <div align="center">  
+   <h3>📊 Estatísticas</h3> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ThalesFortes&show_icons=true&count_private=true&hide_border=true&title_color=E8E5BC&icon_color=E8E5BC&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Maclean github stats" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalesFortes&layout=compact&hide_border=true&title_color=E8E5BC&text_color=E8E5BC&bg_color=0d1117" />
 </div>
