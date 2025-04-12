@@ -41,33 +41,9 @@
 <hr>
 
 <div align="center">
-  <h3>Main skills → Front-end</h3>
+  <h3>Main skills</h3>
   
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
-</div>
-
-<hr>
-
-<div align="center">
-  <h3>Main skills → Back-end</h3>
- 
-  [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
-</div>
-
-<hr>
-
-<div align="center">
-  <h3>Studying in this moment:</h3>
-  
-  [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-</div>
-
-<hr>
-
-<div align="center">
-  <h3>My Design tools</h3>
-
-  [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cs,react,figma )](https://skillicons.dev)
 </div>
 
 <hr>
