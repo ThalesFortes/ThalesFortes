@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F9F6D3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E8E5BC&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Thales+Fortes;I'm+27+years+old;I'm+a+Fullstack+developer;I'm+from+Brazil;I'm+an+eternal+programming+student;The+future+is+today;Be+Welcome!+:%29)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E8E5BC&size=32&center=true&vCenter=true&width=1000&lines=Sou+Desenvolvedor+Full+Stack.;Meu+nome+é+Thales+Fortes+e+tenho+27+anos.;Sou+natural+do+Brasil.;Formado+em+Sistemas+de+Informação+pela+UGB.;Técnico+em+Eletrônica+pelo+SENAI.;Atualmente+curso+Arquitetura+de+Software+pela+DNC.;Sou+entusiasta+da+tecnologia.;Compartilho+minha+jornada+no+desenvolvimento+fullstack.;Com+dedicação+e+paixão+pelo+que+faço!&speed=10)](https://git.io/typing-svg)<br>
+
 
 
 <div align="center">
